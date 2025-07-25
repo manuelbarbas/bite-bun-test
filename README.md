@@ -26,7 +26,7 @@ bun install
 
 ### 2. Run the Application
 ```bash
-bun start
+bun run dev
 ```
 
 ## Usage
